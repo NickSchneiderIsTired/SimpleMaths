@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon May 08 17:52:01 GMT+01:00 2017
+2.base=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_850c98ef0b1d23fbb522de9434c0bd0ab9aa2fbd
+5.file=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=DEX
+4.base=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3a0480e405eeeded964b7656b6cdda2359ef0cfb\\classes.dex
+5.base=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_850c98ef0b1d23fbb522de9434c0bd0ab9aa2fbd\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3a0480e405eeeded964b7656b6cdda2359ef0cfb
+3.file=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+0.set=DEX

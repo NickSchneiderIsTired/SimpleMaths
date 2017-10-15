@@ -1,0 +1,7 @@
+#Sun Oct 15 12:07:21 GMT+01:00 2017
+base.0=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3a0480e405eeeded964b7656b6cdda2359ef0cfb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_850c98ef0b1d23fbb522de9434c0bd0ab9aa2fbd\\classes.dex
+base.1=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_850c98ef0b1d23fbb522de9434c0bd0ab9aa2fbd
+file.0=C\:\\Users\\Nick\\StudioProjects\\TuersteherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3a0480e405eeeded964b7656b6cdda2359ef0cfb\\classes.dex

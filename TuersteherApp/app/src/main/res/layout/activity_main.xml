@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/xField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:hint="a"
+            android:ems="10"
+            android:gravity="right|bottom"
+            android:inputType="numberSigned|numberDecimal" />
+
+        <EditText
+            android:id="@+id/yField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:hint="b"
+            android:ems="10"
+            android:gravity="right|bottom"
+            android:inputType="numberSigned|numberDecimal" />
+
+        <EditText
+            android:id="@+id/zField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:hint="c"
+            android:ems="10"
+            android:gravity="right|bottom"
+            android:inputType="numberSigned|numberDecimal" />
+
+
+        <Button
+            android:id="@+id/calcPyth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="calcPyth"
+            android:text="Pythagoras"
+            android:textSize="40dp"/>
+
+        <Button
+            android:id="@+id/calcZeros"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="calcZeros"
+            android:text="Nullstellen"
+            android:textSize="40dp"/>
+
+        <TextView
+            android:id="@+id/solutionView"
+            android:layout_width="match_parent"
+            android:gravity="center_horizontal|center_vertical"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#E0E0E0"
+            android:minLines="1"
+            android:scrollbars="vertical" />
+
+    </LinearLayout>
+
+</RelativeLayout>
